@@ -16,3 +16,4 @@ add additional repositories or branches to track other formats
 
 - full historical reproduction of all modifications to the post 1920s revisions to the US Code (have not yet found a continuous archive to work from )
 
+to view content of any page in this repo as (ugly) html in your browser, prepend https://htmlpreview.github.io/? to the url in your browser bar (until I get a chance to turn this into an index).
